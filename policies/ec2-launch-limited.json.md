@@ -18,7 +18,8 @@
         "ec2:CreateSecurityGroup",
         "ec2:AuthorizeSecurityGroupIngress",
         "ec2:AuthorizeSecurityGroupEgress",
-        "ec2:CreateTags"
+        "ec2:CreateTags",
+        "ec2:CreatKeyPair"
       ],
       "Resource": "*"
     }
