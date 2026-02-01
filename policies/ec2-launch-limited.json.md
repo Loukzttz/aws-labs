@@ -19,7 +19,10 @@
         "ec2:AuthorizeSecurityGroupIngress",
         "ec2:AuthorizeSecurityGroupEgress",
         "ec2:CreateTags",
-        "ec2:CreatKeyPair"
+        "ec2:CreatKeyPair",
+        "ec2:RevokeSecurityGroupEgress",
+        "ec2:DeleteSecurityGroup",
+        "ec2:TerminateInstance"
       ],
       "Resource": "*"
     }
