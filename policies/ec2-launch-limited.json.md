@@ -16,7 +16,7 @@
         "ec2:DescribeSubnets",
         "ec2:DescribeVpcs",
         "ec2:DescribeRouteTables",
-				"ec2:DescribeInternetGateways",
+			  "ec2:DescribeInternetGateways",
         "ec2:CreateSecurityGroup",
         "ec2:AuthorizeSecurityGroupIngress",
         "ec2:AuthorizeSecurityGroupEgress",
